@@ -241,4 +241,4 @@ This repository serves as the official landing page for One Calendar. The softwa
 **Get the most recent version of One Calendar today!**
 
 ---
-**Last updated:** 2026-09-26 13:29:25 UTC
+**Last updated:** 2026-09-26 17:29:29 UTC
